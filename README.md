@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Guillermo 
 #### I am frontend developer
-<img src="https://i.imgur.com/vOc6EgX.jpg" width="200px" style="border-radius: 20px;">
 Frontend developer 💻
 Passionate about technology 💙💾
 Pet lover ❤️🐕
